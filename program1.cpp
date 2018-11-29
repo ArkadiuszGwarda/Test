@@ -7,6 +7,9 @@ class Samochod_osobowy
 private:
     string producent;
 public:
+//didaje
+//to testowo
+//dla sprawdzenia
     Samochod_osobowy(string producent){};
     Samochod_osobowy(const Samochod_osobowy())
     {
