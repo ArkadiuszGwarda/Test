@@ -43,6 +43,7 @@ public:
 		///zmiany
 		//zmiany
 		//i jeszcze raz miany
+		cout << "Zmiany Zmiany Zmiany";
         wczytaj();
         cout << "Wynnik mnozenia: " << a * b << endl;
     };
