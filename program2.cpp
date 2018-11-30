@@ -40,6 +40,9 @@ class Iloczyn : public Dzialanie
 public:
     void licz()
     {
+		///zmiany
+		//zmiany
+		//i jeszcze raz miany
         wczytaj();
         cout << "Wynnik mnozenia: " << a * b << endl;
     };
