@@ -28,7 +28,7 @@ public:
     };
 };
 class Roznica : public Dzialanie
-{
+{fekuwakufeeahgfkhgewfahgw
 public:
     void licz()
     {
