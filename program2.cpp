@@ -17,6 +17,7 @@ public:
     virtual void licz(){
     };
 };
+//plaplapla
 class Suma : public Dzialanie
 {
 public:
