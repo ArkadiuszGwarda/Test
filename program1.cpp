@@ -9,6 +9,9 @@ private:
 public:
 //didaje
 //to testowo
+//gszfs
+//zfgzgf
+//zdfhzdgf
 //dla sprawdzenia
     Samochod_osobowy(string producent){};
     Samochod_osobowy(const Samochod_osobowy())
