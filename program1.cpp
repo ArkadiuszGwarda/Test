@@ -24,7 +24,7 @@ public:
     void wyswietl_producenta()
     {
         string n;
-        cout << "Producent:" << n;
+        cout << "Producent:" << n;wewrferfefwgrwgwg
     }
 };
 class marka:public Samochod_osobowy
