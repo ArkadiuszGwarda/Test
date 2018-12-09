@@ -18,6 +18,8 @@ public:
     };
 };
 //plaplapla
+//ghghcgh
+//jvjhvjh
 class Suma : public Dzialanie
 {
 public:
